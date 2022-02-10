@@ -1,0 +1,16 @@
+body { 
+    background-image: url("images/torcida.jpg");
+}
+
+ h3{
+    color: lightgray;
+}
+
+
+ .MuiFormControl-fullWidth{
+    
+    background-color: lightcyan;
+}
+.MuiGrid-grid-xs-12{
+    margin-top: 20px;
+}

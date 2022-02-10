@@ -72,7 +72,7 @@ const Contatos = () => {
             }
 
             <Button onClick={sendMessage} className="mt-2" variant="contained" color="primary">
-                Sent
+                Send
             </Button>
 
             {message.map((content) => {
